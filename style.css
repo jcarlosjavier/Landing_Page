@@ -95,3 +95,14 @@ ul {
 .button:hover {
     color: aqua;
 }
+
+.header .left {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right:85px;
+}
+
+.header p {
+    font-size:20px;
+    padding-bottom: 10px;
+}
